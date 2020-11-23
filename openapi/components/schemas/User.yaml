@@ -3,8 +3,8 @@ properties:
   username:
     description: User supplied username
     type: string
-    minLength: 4
-    example: John78
+    minLength: 8
+    example: John7890
   firstName:
     description: User first name
     type: string
